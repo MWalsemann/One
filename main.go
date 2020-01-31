@@ -8,7 +8,7 @@ package main
 import "fmt" 
 
 func main() {
-	fmt.Println("Hello world!")
+	fmt.Println("Hello world !")
 	fmt.Println("My name is Mark, and my major is Computer Science.")
 	fmt.Println("This is my second semester at Butte College.")
 	fmt.Println("One of my favorite pastimes is playing high school sports.")
